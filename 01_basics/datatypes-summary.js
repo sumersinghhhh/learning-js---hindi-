@@ -39,6 +39,8 @@ myFunction = function
 boolean = boolean */
 
 // stack(primitive) ,  heap(non-primitive)
+// copy milegi.     ,   reference milega
+
 let myYoutubename = "sumersinghdotcom"
 
 let anothername = myYoutubename
