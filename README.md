@@ -1,2 +1,2 @@
-# learning-js---hindi-
+# learning-js---
 a code repo for learning js 
